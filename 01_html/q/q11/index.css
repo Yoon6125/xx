@@ -1,0 +1,34 @@
+#top{
+    background-color: red;
+    width:800px;
+    height: 150px;
+}
+#left{
+    background-color: orange;
+    height: 700px;
+    width: 250px;
+    float: left;
+  }
+  #right{
+    background-color: yellow;
+    height: 700px;
+    width: 550px;
+    float: left;
+  }
+  h1{
+    color: blue;
+    background-color: purple;
+    border: 1px solid black;
+  }
+ /* #radio1{
+    color: green;
+  }
+  #radio2{
+    color: aqua;
+  }
+  #radio3{
+    color: black;
+  }*/
+#month{
+  margin-left: 40%;
+}
